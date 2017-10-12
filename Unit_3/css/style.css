@@ -11,4 +11,5 @@ h2 {
 img {
     width: 300px;
     border: thick;
+    text-align: center;
 }
